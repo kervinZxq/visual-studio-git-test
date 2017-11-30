@@ -11,6 +11,8 @@ int main()
 {
 	cout << "welcome to git\n" << endl;
 
+	cout << "welcome to git branch test\n" << endl;
+
 	cout << "Please enter expression (we can handle + and ¨C): ";
 	int lval = 0;
 	int rval;
