@@ -9,7 +9,7 @@
 using namespace std;
 int main()
 {
-	cout << "hello world \n" << endl;
+	cout << "welcome to git\n" << endl;
 
 	cout << "Please enter expression (we can handle + and ¨C): ";
 	int lval = 0;
